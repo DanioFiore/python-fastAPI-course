@@ -6,12 +6,12 @@ returns a dictionary based on those values
 
 
 def user_dictionary(firstname, lastname, age):
-    created_user_dictionary = {
-        "firstname": firstname,
-        "lastname": lastname,
-        "age": age
-    }
-    return created_user_dictionary
+  created_user_dictionary = {
+    "firstname": firstname,
+    "lastname": lastname,
+    "age": age
+  }
+  return created_user_dictionary
 
 
 solution_dictionary = user_dictionary(firstname="Eric", lastname="Roby", age=32)

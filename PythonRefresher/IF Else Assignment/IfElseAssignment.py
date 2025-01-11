@@ -19,15 +19,15 @@ F = 0 - 59
 
 grade = 27
 if grade >= 90:
-    print("A")
+  print("A")
 elif 80 <= grade < 90:
-    print("B")
+  print("B")
 elif 70 <= grade < 80:
-    print("C")
+  print("C")
 elif 60 <= grade < 70:
-    print("D")
+  print("D")
 else:
-    print("F")
+  print("F")
 
 
 

@@ -4,9 +4,9 @@ Dictionaries
 
 
 user_dictionary = {
-    'username': 'codingwithroby',
-    'name': 'Eric',
-    'age': 32
+  'username': 'codingwithroby',
+  'name': 'Eric',
+  'age': 32
 }
 
 

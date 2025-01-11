@@ -14,11 +14,11 @@ zoo.append("Lizard")
 zoo.pop(0)
 print(zoo)
 for x in zoo:
-    print(x)
+  print(x)
 print(zoo[0:3])
 i = 0
 while i < 3:
-    print(zoo[i])
-    i += 1
+  print(zoo[i])
+  i += 1
 
 
