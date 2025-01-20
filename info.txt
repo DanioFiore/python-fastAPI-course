@@ -1,0 +1,14 @@
+to run a fastAPI app, we have to run
+uvicorn <filename>:app --reload
+
+uvicorn is the webserver
+into the <filename> we must have an app = fastAPI()
+--realod listen for changes
+
+to run in dev mode
+fastapi dev <filename>
+
+to run in prod mode
+fastapi run <filename>
+
+by visit url/docs we have a list of our api
